@@ -1,0 +1,9 @@
+Basics of Networking
+
+A network is a collection of interconnected devices that communicate and share resources using a set of defined protocols over a common transmission medium.
+
+Networking is the process of connecting various devices so that they can communicate with each other and share information and resources
+
+Network protocols are sets of rules or standards used by devices to communicate with each other over a network.
+
+Network protocols can be broadly categorized into "layers". Each layer relies on the layer below it and provides services to the layer above it.
